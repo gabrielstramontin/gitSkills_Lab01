@@ -2,9 +2,9 @@
 # Introduction to GitHub (Lab 01)
 </header>
 
-## Finish
 _Congratulations, you've completed this course and joined the world of developers!!!_
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
+
 Here's a recap of your accomplishments:
 - You learned the Basics about GitHub, Repositories, Branches, Commits, and Pull Requests.
 - You practiced the content creating a Branch, a Commit and a Pull Request. Also, by the end, you merged a Pull Request.
@@ -19,5 +19,5 @@ Here's a recap of your accomplishments:
 3. Edit the contents of the `README.md` file.
 
 <footer>
-&copy; 2024 GitHub
+&copy; 2024 GitHub &bull; [MIT License]
 </footer>
