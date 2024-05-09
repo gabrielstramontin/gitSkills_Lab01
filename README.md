@@ -8,7 +8,7 @@ _Congratulations, you've completed this course and joined the world of developer
 Here's a recap of your accomplishments:
 - You learned the Basics about GitHub, Repositories, Branches, Commits, and Pull Requests.
 - You practiced the content creating a Branch, a Commit and a Pull Request. Also, by the end, you merged a Pull Request.
-- Congrats, you made your first contribution at GitHub! :tada:
+- Nice, you made your first contribution at GitHub! :tada:
 
 ### What's next?
 - Try to make your custom profile README
